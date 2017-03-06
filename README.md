@@ -58,7 +58,7 @@ Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or
 To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
 This is very important as it allows me to accept your pull request without having to publish a public version release.
 
-Small, atomic Features, bugs, etc.
+Small, atomic Features, bugs, etc
 Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
 Please rebase as often as possible when working.
 Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
